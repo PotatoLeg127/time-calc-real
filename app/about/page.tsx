@@ -68,21 +68,6 @@ export default function About() {
             </ul>
           </CardContent>
         </Card>
-
-        <Card>
-          <CardContent className="p-8">
-            <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
-            <p className="text-gray-600">
-              Have questions or suggestions? We'd love to hear from you. Reach out to our
-              team for support, feedback, or collaboration opportunities.
-            </p>
-            <div className="mt-4 text-gray-600">
-              <p>Email: support@timecalc.com</p>
-              <p>Twitter: @TimeCalc</p>
-              <p>GitHub: github.com/timecalc</p>
-            </div>
-          </CardContent>
-        </Card>
       </div>
     </div>
   );
