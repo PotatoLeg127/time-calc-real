@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/about/page": "app/about/page.js",
+  "/tools/countdown/page": "app/tools/countdown/page.js",
+  "/calc/difference/page": "app/calc/difference/page.js",
+  "/calc/convert/page": "app/calc/convert/page.js"
+}
