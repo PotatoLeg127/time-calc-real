@@ -28,8 +28,8 @@ export default function RootLayout({
         >
           <Navbar />
           <main className="min-h-screen bg-background">{children}</main>
+	  <Analytics />
         </ThemeProvider>
-				 <Analytics />
       </body>
     </html>
   );
